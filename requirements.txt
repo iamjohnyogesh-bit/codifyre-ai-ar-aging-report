@@ -1,0 +1,2 @@
+# Codifyre AI - AR Aging Report
+# No third-party dependencies: runs on the Python 3.9+ standard library.
