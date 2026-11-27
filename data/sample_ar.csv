@@ -1,0 +1,121 @@
+claim_id,payer,patient,dos,billed,balance,status,last_action
+AR50001,Medicare,Priya Gupta,2026-10-15,260.00,260.00,In process,2026-11-09
+AR50002,Self-pay,Anita Smith,2026-06-20,260.00,156.00,Awaiting payer response,2026-11-13
+AR50003,Medicare,Anita Verma,2026-09-07,260.00,260.00,Patient statement sent,2026-10-21
+AR50004,Cigna,Sam Rao,2026-09-11,2200.00,1760.00,Patient statement sent,2026-11-24
+AR50005,UnitedHealthcare,Meera Iyer,2026-09-16,950.00,760.00,Awaiting payer response,2026-10-31
+AR50006,UnitedHealthcare,Priya Das,2026-08-02,1400.00,1400.00,Patient statement sent,2026-11-20
+AR50007,BCBS,Ravi Verma,2026-09-21,260.00,208.00,In process,2026-10-21
+AR50008,Medicare,Anita Iyer,2026-10-26,120.00,24.00,In process,2026-11-09
+AR50009,Aetna,Karan Nair,2026-10-22,180.00,36.00,Denied - appeal,2026-10-23
+AR50010,UnitedHealthcare,Divya Shah,2026-10-09,480.00,480.00,Pended - info needed,2026-11-20
+AR50011,Medicare,Arjun Nair,2026-09-06,480.00,480.00,In process,2026-11-23
+AR50012,Cigna,Ravi Iyer,2026-08-22,340.00,68.00,Denied - appeal,2026-11-08
+AR50013,Self-pay,Meera Gupta,2026-07-20,480.00,96.00,Denied - appeal,2026-11-07
+AR50014,Medicare,Arjun Rao,2026-10-14,480.00,288.00,Denied - appeal,2026-11-20
+AR50015,Medicare,Sam Verma,2026-09-16,720.00,720.00,Denied - appeal,2026-10-29
+AR50016,BCBS,Priya Gupta,2026-08-13,2200.00,1320.00,In process,2026-11-25
+AR50017,Cigna,John Das,2026-08-18,480.00,0.00,Denied - appeal,2026-11-21
+AR50018,Medicare,Sam Smith,2026-10-24,2200.00,2200.00,Patient statement sent,2026-11-09
+AR50019,Cigna,Arjun Menon,2026-06-10,340.00,68.00,Denied - appeal,2026-10-23
+AR50020,BCBS,Neha Gupta,2026-08-20,720.00,144.00,Submitted,2026-11-15
+AR50021,Medicaid,Anita Smith,2026-09-16,340.00,340.00,In process,2026-11-17
+AR50022,Medicare,Sam Smith,2026-10-14,180.00,108.00,Pended - info needed,2026-11-08
+AR50023,Cigna,Anita Rao,2026-10-04,120.00,120.00,Denied - appeal,2026-11-25
+AR50024,UnitedHealthcare,Sam Shah,2026-11-26,950.00,570.00,Patient statement sent,2026-11-26
+AR50025,Medicare,John Shah,2026-11-02,1400.00,1400.00,Denied - appeal,2026-11-05
+AR50026,UnitedHealthcare,Anita Das,2026-10-22,2200.00,1760.00,Patient statement sent,2026-11-19
+AR50027,Medicare,John Pillai,2026-10-03,950.00,190.00,In process,2026-11-21
+AR50028,Medicare,Meera Gupta,2026-11-26,120.00,120.00,Patient statement sent,2026-11-26
+AR50029,BCBS,Priya Verma,2026-11-08,340.00,204.00,Submitted,2026-11-24
+AR50030,Medicare,Arjun Nair,2026-09-30,2200.00,1760.00,Patient statement sent,2026-11-15
+AR50031,Cigna,John Gupta,2026-08-02,260.00,208.00,Awaiting payer response,2026-10-19
+AR50032,UnitedHealthcare,Arjun Shah,2026-06-08,1400.00,1400.00,Denied - appeal,2026-11-14
+AR50033,Cigna,Arjun Iyer,2026-07-07,260.00,208.00,Submitted,2026-11-22
+AR50034,UnitedHealthcare,Divya Verma,2026-09-26,340.00,0.00,Denied - appeal,2026-10-27
+AR50035,BCBS,Arjun Pillai,2026-10-16,480.00,480.00,Denied - appeal,2026-10-21
+AR50036,BCBS,John Gupta,2026-11-19,180.00,36.00,Awaiting payer response,2026-11-25
+AR50037,Medicaid,Anita Iyer,2026-09-25,120.00,72.00,Patient statement sent,2026-11-14
+AR50038,Aetna,Sam Gupta,2026-11-03,180.00,144.00,In process,2026-11-22
+AR50039,Self-pay,John Menon,2026-07-26,720.00,144.00,Pended - info needed,2026-11-16
+AR50040,Cigna,Divya Iyer,2026-08-19,120.00,72.00,Patient statement sent,2026-11-12
+AR50041,Medicaid,Ravi Shah,2026-08-04,180.00,144.00,Pended - info needed,2026-11-22
+AR50042,Medicaid,Meera Smith,2026-07-19,120.00,120.00,Patient statement sent,2026-11-15
+AR50043,Self-pay,Ravi Nair,2026-07-02,1400.00,1400.00,Awaiting payer response,2026-11-22
+AR50044,Medicare,Sam Pillai,2026-09-28,480.00,480.00,Pended - info needed,2026-10-20
+AR50045,Cigna,John Iyer,2026-08-08,2200.00,440.00,Submitted,2026-10-25
+AR50046,Aetna,John Nair,2026-09-07,340.00,340.00,In process,2026-10-22
+AR50047,Aetna,Karan Verma,2026-10-10,120.00,24.00,Pended - info needed,2026-10-19
+AR50048,Medicare,John Pillai,2026-11-16,260.00,260.00,Patient statement sent,2026-11-16
+AR50049,Medicare,Arjun Smith,2026-09-22,2200.00,440.00,Patient statement sent,2026-11-05
+AR50050,BCBS,Ravi Nair,2026-09-05,2200.00,2200.00,Patient statement sent,2026-10-28
+AR50051,BCBS,Priya Smith,2026-09-29,120.00,0.00,In process,2026-11-20
+AR50052,Medicare,Arjun Gupta,2026-10-03,720.00,144.00,Submitted,2026-10-20
+AR50053,Self-pay,Meera Verma,2026-07-28,260.00,156.00,Denied - appeal,2026-10-28
+AR50054,UnitedHealthcare,Divya Das,2026-10-26,180.00,180.00,Submitted,2026-11-24
+AR50055,Self-pay,Meera Verma,2026-07-12,1400.00,1400.00,Pended - info needed,2026-10-28
+AR50056,UnitedHealthcare,John Rao,2026-10-03,1400.00,1400.00,Patient statement sent,2026-11-23
+AR50057,Cigna,Ravi Verma,2026-09-02,260.00,52.00,Submitted,2026-11-04
+AR50058,Medicare,Meera Nair,2026-10-24,120.00,96.00,Denied - appeal,2026-11-22
+AR50059,Self-pay,Sam Pillai,2026-09-27,1400.00,1120.00,Pended - info needed,2026-10-26
+AR50060,UnitedHealthcare,Sam Menon,2026-09-11,260.00,260.00,Submitted,2026-10-18
+AR50061,Medicaid,Ravi Gupta,2026-07-27,480.00,480.00,Patient statement sent,2026-10-20
+AR50062,BCBS,John Nair,2026-11-11,340.00,340.00,Patient statement sent,2026-11-18
+AR50063,Medicare,Meera Rao,2026-11-08,340.00,340.00,Pended - info needed,2026-11-25
+AR50064,UnitedHealthcare,Sam Gupta,2026-09-01,1400.00,1120.00,Awaiting payer response,2026-11-12
+AR50065,Cigna,Meera Nair,2026-10-03,480.00,480.00,Patient statement sent,2026-10-25
+AR50066,UnitedHealthcare,Ravi Iyer,2026-11-26,260.00,260.00,Patient statement sent,2026-11-26
+AR50067,Medicare,Arjun Nair,2026-09-11,180.00,180.00,Pended - info needed,2026-10-18
+AR50068,Aetna,Arjun Shah,2026-10-16,120.00,0.00,In process,2026-10-20
+AR50069,Cigna,Anita Pillai,2026-10-01,120.00,72.00,Pended - info needed,2026-11-24
+AR50070,Medicare,Neha Iyer,2026-09-13,260.00,260.00,Pended - info needed,2026-11-04
+AR50071,UnitedHealthcare,Anita Verma,2026-11-10,480.00,96.00,Denied - appeal,2026-11-21
+AR50072,Aetna,John Gupta,2026-11-26,180.00,144.00,Submitted,2026-11-26
+AR50073,Cigna,John Menon,2026-09-30,1400.00,1400.00,Pended - info needed,2026-10-27
+AR50074,Medicaid,Priya Iyer,2026-10-09,950.00,190.00,Patient statement sent,2026-11-26
+AR50075,Cigna,Anita Rao,2026-07-15,480.00,480.00,Denied - appeal,2026-10-18
+AR50076,BCBS,John Menon,2026-11-08,950.00,950.00,Awaiting payer response,2026-11-17
+AR50077,BCBS,John Menon,2026-11-01,120.00,24.00,Submitted,2026-11-20
+AR50078,UnitedHealthcare,Arjun Shah,2026-08-08,2200.00,1320.00,Submitted,2026-11-23
+AR50079,Medicare,Karan Menon,2026-09-17,260.00,156.00,Awaiting payer response,2026-10-27
+AR50080,BCBS,Ravi Pillai,2026-11-26,720.00,576.00,Patient statement sent,2026-11-26
+AR50081,BCBS,Priya Iyer,2026-10-13,2200.00,1320.00,Submitted,2026-11-10
+AR50082,UnitedHealthcare,Ravi Shah,2026-09-29,1400.00,1120.00,Awaiting payer response,2026-11-25
+AR50083,Self-pay,Neha Pillai,2026-09-05,720.00,720.00,Submitted,2026-11-26
+AR50084,Self-pay,John Shah,2026-09-03,950.00,190.00,In process,2026-10-21
+AR50085,Medicare,Ravi Smith,2026-11-26,720.00,0.00,Awaiting payer response,2026-11-26
+AR50086,Cigna,Priya Verma,2026-10-10,950.00,760.00,Awaiting payer response,2026-11-26
+AR50087,Self-pay,Neha Nair,2026-07-26,1400.00,280.00,Awaiting payer response,2026-11-11
+AR50088,Medicaid,Anita Pillai,2026-09-25,720.00,720.00,Awaiting payer response,2026-11-04
+AR50089,UnitedHealthcare,Priya Iyer,2026-09-08,480.00,384.00,Patient statement sent,2026-11-09
+AR50090,Aetna,John Iyer,2026-11-26,340.00,68.00,In process,2026-11-26
+AR50091,Cigna,Karan Menon,2026-10-01,720.00,576.00,Denied - appeal,2026-10-30
+AR50092,Cigna,Neha Iyer,2026-09-03,340.00,68.00,Patient statement sent,2026-11-17
+AR50093,Medicare,Arjun Rao,2026-09-27,2200.00,440.00,Patient statement sent,2026-11-15
+AR50094,Medicare,John Nair,2026-10-26,180.00,180.00,Pended - info needed,2026-11-14
+AR50095,UnitedHealthcare,Divya Nair,2026-10-10,120.00,72.00,Submitted,2026-10-31
+AR50096,BCBS,Sam Smith,2026-10-27,950.00,950.00,Patient statement sent,2026-10-29
+AR50097,Medicare,Ravi Verma,2026-10-15,340.00,340.00,Submitted,2026-11-17
+AR50098,Medicaid,Priya Shah,2026-11-26,260.00,260.00,Pended - info needed,2026-11-26
+AR50099,Medicare,Karan Iyer,2026-10-15,2200.00,1760.00,In process,2026-10-22
+AR50100,UnitedHealthcare,Neha Das,2026-09-06,120.00,72.00,Pended - info needed,2026-11-16
+AR50101,BCBS,Neha Das,2026-09-12,340.00,68.00,Patient statement sent,2026-11-18
+AR50102,Medicare,Ravi Shah,2026-10-22,720.00,0.00,Awaiting payer response,2026-11-02
+AR50103,Medicaid,Arjun Gupta,2026-06-19,260.00,52.00,Denied - appeal,2026-11-17
+AR50104,UnitedHealthcare,Sam Rao,2026-09-01,180.00,144.00,Submitted,2026-11-11
+AR50105,BCBS,Priya Smith,2026-08-26,260.00,208.00,In process,2026-11-19
+AR50106,UnitedHealthcare,Priya Menon,2026-07-28,260.00,208.00,Submitted,2026-11-20
+AR50107,Medicaid,Anita Menon,2026-07-06,260.00,208.00,In process,2026-11-10
+AR50108,Aetna,Neha Pillai,2026-10-30,180.00,180.00,Submitted,2026-11-02
+AR50109,UnitedHealthcare,Neha Iyer,2026-10-23,2200.00,2200.00,Denied - appeal,2026-11-03
+AR50110,BCBS,Divya Iyer,2026-09-27,120.00,120.00,Patient statement sent,2026-10-27
+AR50111,Aetna,Divya Pillai,2026-10-09,950.00,760.00,Denied - appeal,2026-11-12
+AR50112,Aetna,Neha Nair,2026-08-01,180.00,180.00,In process,2026-11-02
+AR50113,BCBS,Karan Gupta,2026-09-27,2200.00,1760.00,Awaiting payer response,2026-11-02
+AR50114,Medicaid,John Das,2026-08-03,2200.00,2200.00,Patient statement sent,2026-11-26
+AR50115,Aetna,Karan Rao,2026-09-14,340.00,68.00,Submitted,2026-10-26
+AR50116,Medicare,Neha Smith,2026-11-09,260.00,260.00,Pended - info needed,2026-11-23
+AR50117,Cigna,Neha Shah,2026-10-16,180.00,36.00,Denied - appeal,2026-10-28
+AR50118,Medicaid,Sam Shah,2026-08-30,2200.00,1320.00,Denied - appeal,2026-11-06
+AR50119,Medicare,Priya Gupta,2026-11-05,2200.00,0.00,In process,2026-11-06
+AR50120,UnitedHealthcare,Ravi Nair,2026-09-29,950.00,950.00,Denied - appeal,2026-11-13
